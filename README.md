@@ -33,7 +33,7 @@ This portfolio contains all of the modules in MKTG3509 as well as the assignment
    - [A9 Segmentation (retail transactions and behavioral segmentation)](https://colab.research.google.com/drive/1Wl1K7BbH7YeStvqgQ3wYHbGcS2nc6M79)
 
 **Module 10: Text Analysis**
-    - [A10 Vegas Resorts Text Mining](https://colab.research.google.com/drive/1bdVVF47FlDR2ZbFZEIUPEiooWphOhXUa)
+   - [A10 Vegas Resorts Text Mining](https://colab.research.google.com/drive/1bdVVF47FlDR2ZbFZEIUPEiooWphOhXUa)
 
 **Module 11: Use GitHub to Create Your Assignment Portfolio**
-    - [A11 Market Your Custoemr Data Analytics Skills](https://github.com/zachbonnell/MKTG3509Portfolio/README.md))
+   - [A11 Market Your Custoemr Data Analytics Skills](https://github.com/zachbonnell/MKTG3509Portfolio/README.md))
