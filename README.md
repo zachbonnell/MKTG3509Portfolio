@@ -36,4 +36,4 @@ This portfolio contains all of the modules in MKTG3509 as well as the assignment
    - [A10 Vegas Resorts Text Mining](https://colab.research.google.com/drive/1bdVVF47FlDR2ZbFZEIUPEiooWphOhXUa)
 
 **Module 11: Use GitHub to Create Your Assignment Portfolio**
-   - [A11 Market Your Custoemr Data Analytics Skills](https://github.com/zachbonnell/MKTG3509Portfolio/README.md)
+   - [A11 Market Your Custoemr Data Analytics Skills](https://github.com/zachbonnell/MKTG3509Portfolio)
